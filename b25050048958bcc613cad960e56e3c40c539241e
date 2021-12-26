@@ -1,0 +1,23 @@
+[33mcommit 183b83f2abf78f1e8b473c7162688bf5a9e4a56e[m[33m ([m[1;36mHEAD -> [m[1;32mfeature1[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/feature1[m[33m, [m[1;32mmaster[m[33m, [m[1;32mApple[m[33m)[m
+Author: Chetan <chetankhedkar00@gmail.com>
+Date:   Mon Dec 6 00:46:58 2021 +0530
+
+    Added commit
+
+[33mcommit b25050048958bcc613cad960e56e3c40c539241e[m
+Author: Chetan <chetankhedkar00@gmail.com>
+Date:   Mon Dec 6 00:45:10 2021 +0530
+
+    Fixed extra bracket
+
+[33mcommit 78ae3526a5e7d0fb11f3b341b4d88f0ed0eb27e1[m
+Author: Chetan <chetankhedkar00@gmail.com>
+Date:   Mon Dec 6 00:35:36 2021 +0530
+
+    ignore some files
+
+[33mcommit 9837994840d0f3188e534fe83e181835aa502964[m
+Author: Chetan <chetankhedkar00@gmail.com>
+Date:   Mon Dec 6 00:05:24 2021 +0530
+
+    added more htmls
